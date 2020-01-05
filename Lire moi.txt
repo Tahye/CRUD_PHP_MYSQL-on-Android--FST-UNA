@@ -1,0 +1,3 @@
+* Copier  le contenu du dossier crud dans le repertoire racine de votre serveur WWW ou htdocs 
+
+* Créer une base de données "bd" et importer le fichier 'crud.sql' pour créer la table data
